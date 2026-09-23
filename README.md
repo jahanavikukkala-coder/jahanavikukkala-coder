@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi I'm Jahanavi 👋
 
-<!--
-**jahanavikukkala-coder/jahanavikukkala-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+I am a B.Tech 3rd-year student with an interest in cybersecurity, web security, and cloud computing. I enjoy learning about web vulnerabilities, secure coding practices, and building practical technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Java
+- HTML
+- Web Vulnerability Analysis
+- Git & GitHub
+
+## Experience
+
+### Decoders Lab Intern
+Completed an internship at Decoders Lab, where I gained practical exposure to software development and industry-oriented projects.
+
+## Education
+-B.Tech (3rd Year)
+
+## Areas of Interest
+- Cybersecurity
+- Web Application Security
+- Vulnerability Assessment
+- Cloud computing
+
+## Contact
+- GitHub: https://github.com/jahanavikukkala-coder
+
+
+
