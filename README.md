@@ -17,7 +17,7 @@ I am a B.Tech 3rd-year student with an interest in cybersecurity, web security, 
 Completed an internship at Decoders Lab, where I gained practical exposure to software development and industry-oriented projects.
 
 ## Education
--B.Tech (3rd Year)
+B.Tech (3rd Year)
 
 ## Areas of Interest
 - Cybersecurity
